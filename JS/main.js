@@ -6,6 +6,6 @@ JavaScript rules:
   for anything else.
 */
 
-let warning = 'By accessing this webpage you hereby acknowledge that all Sioux Falls School District rules apply to your usage of this website, unauthorized usage of this website in any way is strictly prohibited, and will be reported to administration.';
+let warning = 'You can edit this alert after forking. It will appear every time you load this page.';
 
 alert(warning);
